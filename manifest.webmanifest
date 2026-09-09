@@ -1,0 +1,18 @@
+{
+  "name": "Colégio Lima Nogueira",
+  "short_name": "Lima Nogueira",
+  "description": "Educação que acolhe, inspira e prepara para o futuro.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f9ff",
+  "theme_color": "#162d70",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "150x150",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
